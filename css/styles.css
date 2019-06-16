@@ -40,7 +40,7 @@ body{
     margin : 0px 2px 0px 0px;
 }
 
-.tab-content{
+.tab-content, .card-body{
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
