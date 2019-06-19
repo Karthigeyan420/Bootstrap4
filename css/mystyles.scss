@@ -1,0 +1,16 @@
+$background-header-color: #5133A5;
+$background-body-color: #D1C5E8;
+$button-color: #A896CD;
+$header-color: #fff;
+
+.modal-header{
+    background-color: $background-header-color;
+    color: $header-color;
+    .close{
+        color: $button-color;
+    }
+}
+.modal-body{
+    background-color: $background-body-color;
+}
+
